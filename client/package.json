@@ -44,6 +44,9 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": [
+      "https://frontend-only.dgatedfy0un9a.amplifyapp.com/"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
